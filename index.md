@@ -7,7 +7,7 @@ lastupdated: "2017-06-20"
 ---
 
 {:shortdesc: .shortdesc}
-{:new_window: target="_blank"}
+{:new_window: target="_blank" rel="noopener noreferrer"}
 
 # Getting started with IBM Information Server on Cloud
 {: #iisoc_getting_started}
@@ -20,4 +20,4 @@ and receive your welcome letter with the service details,
 
 ## Additional resources
 
-- [Information Server on Cloud Learning Center](https://developer.ibm.com/clouddataservices/docs/information-server/){: new_window}
+- [Information Server on Cloud Learning Center](https://developer.ibm.com/clouddataservices/docs/information-server/#){: new_window}
