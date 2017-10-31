@@ -20,4 +20,4 @@ and receive your welcome letter with the service details,
 
 ## Additional resources
 
-- [Information Server on Cloud Learning Center](https://developer.ibm.com/clouddataservices/docs/information-server/#){: new_window}
+- [Information Server on Cloud Learning Center](http://ibmtvdemo.edgesuite.net/software/analytics/learning-centers/information-server-on-cloud/index.html){: new_window}
