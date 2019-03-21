@@ -1,7 +1,9 @@
 {:topicgroup: .topicgroup}
+{:navgroup: .navgroup}
 
-{: .toc subcollection="ISOnCloud" audience="service" arm="3663098" href="/docs/services/ISOnCloud/index.html"}
+{: .toc subcollection="ISOnCloud" audience="service" arm="3663098" href="/docs/services/ISOnCloud/index.html" path="services/ISOnCloud"}
 Information Server on Cloud
 
-  {: .topicgroup}
+    {: .navgroup id="learn"}
     index.md
+    {: .navgroup-end}
