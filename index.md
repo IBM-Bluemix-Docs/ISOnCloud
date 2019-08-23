@@ -4,6 +4,8 @@ copyright:
   years: 2015, 2019
 lastupdated: "2019-08-23"
 
+keywords: hosted services
+
 ---
 
 {:shortdesc: .shortdesc}
@@ -13,6 +15,7 @@ lastupdated: "2019-08-23"
 {: #iisoc_getting_started}
 
 IBM® Information Server on Cloud offerings provide data integration and governance products as a service on the global cloud infrastructure of IBM SoftLayer. It offers the rich features of an on-premises data integration product deployment without the cost and complexity of deploying the infrastructure. Optionally managed add-on services can also be added to maintain and manage the infrastructure.
+{: shortdesc}
 
 After you [request a service](/catalog/services/information-server-on-cloud)
 and receive your welcome letter with the service details,
