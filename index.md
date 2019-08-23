@@ -1,8 +1,8 @@
 ---
 
 copyright:
-  years: 2015, 2018
-lastupdated: "2019-03-20"
+  years: 2015, 2019
+lastupdated: "2019-08-23"
 
 ---
 
@@ -18,6 +18,3 @@ After you [request a service](/catalog/services/information-server-on-cloud)
 and receive your welcome letter with the service details,
 [**view the PDF documentation to get started**](https://public.dhe.ibm.com/cloud/bluemix/hosted/).
 
-## Additional resources
-
-- [Information Server on Cloud Learning Center](http://ibmtvdemo.edgesuite.net/software/analytics/learning-centers/information-server-on-cloud/index.html){: new_window}
