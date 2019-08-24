@@ -21,3 +21,7 @@ After you [request a service](/catalog/services/information-server-on-cloud)
 and receive your welcome letter with the service details,
 [**view the PDF documentation to get started**](https://public.dhe.ibm.com/cloud/bluemix/hosted/).
 
+## More resources
+
+- [Why IBM Information Server on Cloud?](https://www.ibm.com/cloud/information-server)
+
