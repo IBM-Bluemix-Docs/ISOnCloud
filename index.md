@@ -27,7 +27,7 @@ view the PDF documentation to get started:
   - [Information Server on Cloud User Guide (1.1.0)](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/iis/iisoncloud_1.1.0_en_userguide.pdf)
   - [Information Server on Cloud User Guide (1.2.0)](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/iis/iisoncloud_1.2.0_en_userguide.pdf)
   - [Information Server on Cloud User Guide (1.3.0)](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/iis/iisoncloud_1.3.0_en_userguide.pdf)
-  - [Information Server on Cloud User Guide (1.4.0)](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/iisoncloud_1.4.0_en_userguide.pdf)
+  - [Information Server on Cloud User Guide (1.4.0)](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/iis/iisoncloud_1.4.0_en_userguide.pdf)
   - [Information Server on Cloud User Guide (1.5.0)](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/iis/iisoncloud_1.5.0_en_userguide.pdf)
 
 - [**Configurations**](https://cloud.ibm.com/media/docs/downloads/hosted-svcs/iis/iisoncloud_configurations.pdf)
